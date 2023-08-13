@@ -1,0 +1,63 @@
+{
+  "common": {
+    "login": "Login"
+  },
+  "Books": {
+    "title": "Title",
+    "publish_date": "Publish Date",
+    "edit": "Edit",
+    "delete": "Delete",
+    "add_new": "Add new",
+    "genre": "Genre",
+    "book_created_successfully": "Book created successfully",
+    "author_id": "Author ID",
+    "genre_id": "Genre ID",
+    "publication_date": "Publication date",
+    "description": "Description",
+    "add_new_book": "Add new book",
+    "create_book": "Create book",
+    "choose_account": "Choose account",
+    "update_book": "Update book",
+    "deleted_successfully": "Deleted successfully",
+    "book_updated_successfully": "Book updated successfully"
+  },
+  "Genres": {
+    "title": "Genres",
+    "edit": "Edit",
+    "delete": "Delete",
+    "add_new": "Add new",
+    "genre": "Genre",
+    "genre_created_successfully": "Genre created successfully",
+    "add_new_genre": "Add new genre",
+    "create_genre": "Create Genre",
+    "name": "Name",
+    "created_at": "Create At",
+    "choose_account": "Choose account",
+    "update_genre": "Update Genre",
+    "deleted_successfully": "Deleted successfully",
+    "genre_updated_successfully": "Genre updated successfully"
+  },
+  "Authors": {
+    "title": "Authors",
+    "edit": "Edit",
+    "delete": "Delete",
+    "add_new": "Add new",
+    "author": "Author",
+    "email": "Email",
+    "joined_at": "Joined At",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "password": "Password",
+    "birthdate": "Birthdate",
+    "author_created_successfully": "Author created successfully",
+    "add_new_author": "Add new author",
+    "create_author": "Create Author",
+    "name": "Name",
+    "created_at": "Joined At",
+    "choose_account": "Choose account",
+    "update_author": "Update Author",
+    "deleted_successfully": "Deleted successfully",
+    "author_updated_successfully": "Author updated successfully"
+  }
+
+}
